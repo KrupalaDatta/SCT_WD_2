@@ -16,7 +16,8 @@ The goal was to build an interactive and user-friendly stopwatch using HTML, CSS
 
 ## Live Demo
 
-🔗 [View Project on GitHub Pages](https://KrupalaDatta.github.io/SCT_WD_2)
+
+🔗 [View Project on GitHub Pages](https://krupaladatta.github.io/SCT_WD_2/)
 
 ---
 
